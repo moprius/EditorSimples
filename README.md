@@ -1,2 +1,2 @@
 # EditorSimples
-A simple editor built in C++ and QT
+Um simples editor feito em C++ e QT Framework
